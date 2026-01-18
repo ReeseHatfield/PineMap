@@ -20,9 +20,8 @@ We offer a comprehensive solution for you to compartmentalize your data in an ea
 
 ## Demonstration
 
-<video src="ProductDemo.mp4" controls>
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/2257d110-5c7d-48f6-8292-701f06c6ce0d
 
 
 Check out the demonstration video [here](https://www.youtube.com/watch?v=iHJwXn6Rois)
